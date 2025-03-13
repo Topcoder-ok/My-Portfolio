@@ -4862,7 +4862,9 @@ a img {
     line-height: 1;
     color: #fff;
 }
-
+.l_color {
+    color: red;
+}
 @media only screen and (min-width:550px) {
     .header .site-title {
         margin: 0;
